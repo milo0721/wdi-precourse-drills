@@ -1,0 +1,11 @@
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
+
+#column1 {
+  float: left;
+  width: 50%;
+}
+#column2 {
+  float: right;
+  width: 50%;
+}
